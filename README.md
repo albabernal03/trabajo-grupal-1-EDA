@@ -14,6 +14,10 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 1. [Ejercicio 1](#id1)
 2. [Ejercicio 2](#id2)
 3. [Ejercicio 3](#id3)
+4. f
+5. f
+6. f
+7. [Ejercicio 7](#id7)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
@@ -49,6 +53,10 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 ***
 
 ## Ejercicio 7:<a name="id7"></a>
+
+* En este ejercicio se nos pide que creemos un diagrama UML en el que se muestre las características que conlleva un proyecto.
+![ejercicio 7](https://user-images.githubusercontent.com/91721875/153268653-eb79cf81-2867-4c5b-978b-e7cadfa3545d.jpg)
+
 
 ***
 
