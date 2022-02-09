@@ -14,6 +14,10 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 1. [Ejercicio 1](#id1)
 2. [Ejercicio 2](#id2)
 3. [Ejercicio 3](#id3)
+4. f
+5. f
+6. f
+7. [Ejercicio 7](#id7)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
