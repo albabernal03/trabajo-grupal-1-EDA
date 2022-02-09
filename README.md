@@ -35,3 +35,107 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 
 
 ***
+
+## Ejercicio 4:<a name="id4"></a>
+
+***
+
+## Ejercicio 5:<a name="id5"></a>
+
+***
+
+## Ejercicio 6:<a name="id6"></a>
+
+***
+
+## Ejercicio 7:<a name="id7"></a>
+
+***
+
+## Ejercicio 8:<a name="id8"></a>
+
+***
+
+## Ejercicio 9:<a name="id9"></a>
+
+***
+
+## Ejercicio 10:<a name="id10"></a>
+
+***
+
+## Ejercicio 11:<a name="id11"></a>
+
+***
+
+## Ejercicio 12:<a name="id12"></a>
+
+***
+
+## Ejercicio 13:<a name="id13"></a>
+
+***
+
+## Ejercicio 14:<a name="id14"></a>
+
+***
+
+## Ejercicio 15:<a name="id15"></a>
+
+***
+
+## Ejercicio 16:<a name="id16"></a>
+
+***
+
+## Ejercicio 17:<a name="id17"></a>
+
+***
+
+## Ejercicio 18:<a name="id18"></a>
+
+***
+
+## Ejercicio 19:<a name="id19"></a>
+
+***
+
+## Ejercicio 20:<a name="id20"></a>
+
+***
+
+## Ejercicio 21:<a name="id21"></a>
+
+***
+
+## Ejercicio 22:<a name="id22"></a>
+
+***
+
+## Ejercicio 23:<a name="id23"></a>
+
+***
+
+## Ejercicio 24:<a name="id24"></a>
+
+***
+
+## Ejercicio 25:<a name="id25"></a>
+
+***
+
+## Ejercicio 26:<a name="id26"></a>
+
+***
+
+## Ejercicio 27:<a name="id27"></a>
+
+***
+
+## Ejercicio 28:<a name="id28"></a>
+
+***
+
+## Ejercicio 29:<a name="id29"></a>
+
+***
