@@ -30,6 +30,6 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 
 ## Ejercicio 3:<a name="id3"></a>
 
-* En este ejercicio al igual que el anterior se nos pide que relaicemos un diagrama a partir de un texto, el cual nos habla de las carácteristica de "La Giocconda" y su réplica.
+* En este ejercicio al igual que el anterior se nos pide que realicemos un diagrama a partir de un texto, el cual nos habla de las carácteristica de "La Giocconda" y su réplica.
 
 ***
