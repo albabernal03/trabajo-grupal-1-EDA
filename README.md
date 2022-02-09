@@ -1,3 +1,2 @@
-# trabajo-grupal-1-EDA
+<h1 align="center">	Diagramas UML</h1>
 
-La dirección de Githup para este repositorio es la siguiente: 
