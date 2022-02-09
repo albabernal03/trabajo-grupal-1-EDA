@@ -16,4 +16,4 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 
 ## Ejercicio 1:<a name="id1"></a>
 
-* En el primer ejercico, nos piden que asignemos los valores correspondientes a las siguientes figuras: círculo, cuadrado, rectángulo y elipse.
+* En el primer ejercicio, nos piden que asignemos los valores correspondientes a las siguientes figuras: círculo, cuadrado, rectángulo y elipse.
