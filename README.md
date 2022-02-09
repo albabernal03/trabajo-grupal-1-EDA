@@ -74,7 +74,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 
 ## Ejercicio 11:<a name="id11"></a>
 
-*En este ejercicio se nos pide que a partir del diagrama de objetos obtenido en el Ejercicio 3, propongamos un diagrama de clases correspondiente con
+* En este ejercicio se nos pide que a partir del diagrama de objetos obtenido en el Ejercicio 3, propongamos un diagrama de clases correspondiente con
 asociaciones, cardinalidades y roles.
 
 ![ejercicio 11](https://user-images.githubusercontent.com/91721875/153274248-1f6c3588-16f4-4aa2-9584-3b619d94613b.jpg)
