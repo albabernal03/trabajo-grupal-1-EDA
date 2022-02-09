@@ -31,5 +31,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 ## Ejercicio 3:<a name="id3"></a>
 
 * En este ejercicio al igual que el anterior se nos pide que realicemos un diagrama a partir de un texto, el cual nos habla de las carácteristica de "La Giocconda" y su réplica.
+![ejercicio 3](https://user-images.githubusercontent.com/91721875/153255898-8e26bd90-7f9d-435d-824f-b1b67f04f4c8.jpg)
+
 
 ***
