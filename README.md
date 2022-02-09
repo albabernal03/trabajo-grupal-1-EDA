@@ -12,8 +12,24 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 ***
 ## Índice
 1. [Ejercicio 1](#id1)
+2. [Ejercicio 2](#id2)
+3. [Ejercicio 3](#id3)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
 
 * En el primer ejercicio, nos piden que asignemos los valores correspondientes a las siguientes figuras: círculo, cuadrado, rectángulo y elipse.
+
+***
+
+## Ejercicio 2:<a name="id2"></a>
+
+* En este ejercicio nos pide que realicemos un diagrama a partir del siguiente texto: "Kate Windsor (nacida Middleton) y Guillermo (Windsor) de Gales están casados. Guillermo de Gales es hijo de Carlos (Windsor) de Gales y de Diana de Gales (nacida Spencer)."
+
+***
+
+## Ejercicio 3:<a name="id3"></a>
+
+* En este ejercicio al igual que el anterior se nos pide que relaicemos un diagrama a partir de un texto, el cual nos habla de las carácteristica de "La Giocconda" y su réplica.
+
+***
