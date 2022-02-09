@@ -11,3 +11,9 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 
 ***
 ## Índice
+1. [Ejercicio1](#id1)
+***
+
+## Ejercicio 1:<a name="id1"></a>
+
+* En el primer ejercico se nos pide que para cada una de las figuras: círculo, cuadrado, rectángulo y elipse, le asignemos los valores correspondientes.
