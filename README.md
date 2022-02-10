@@ -26,7 +26,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 13. [Ejercicio 13](#id13)
 14. [Ejercicio 14](#id14)
 15. [Ejercicio 15](#id15)
-16. s
+16. [Ejercicio 16](#id16)
 17. s
 18. s
 19. [Ejercicio 19](#id19)
