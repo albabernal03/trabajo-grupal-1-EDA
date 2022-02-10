@@ -64,6 +64,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ***
 
 ## Ejercicio 4:<a name="id4"></a>
+*En este ejercicio nos pide un diagrama de objetos a partir de las descripciones del texto, el cual habla de la catedral de Santiago de Compostela.
 ![ejercicio 4](https://user-images.githubusercontent.com/91721875/153474638-97bbca8c-364b-4b73-9484-49f1c75798a8.JPG)
 
 ***
@@ -89,6 +90,7 @@ En este ejercico se nos pide definir las clases y los atributos correspondientes
 ***
 
 ## Ejercicio 8:<a name="id8"></a>
+*En este ejercicio nos pide definir la clase que le corresponde a la actuación arqueológica del texto.
 ![ejercicio 8](https://user-images.githubusercontent.com/91721875/153474693-5c8fb2e1-608f-4fe6-8ce7-13eb3771e294.JPG)
 
 ***
@@ -113,6 +115,7 @@ asociaciones, cardinalidades y roles.
 ***
 
 ## Ejercicio 12:<a name="id12"></a>
+*En este ejercicio nos pide definir el diagrama correspondiente a la estructura arqueológica.
 ![ejercicio 12](https://user-images.githubusercontent.com/91721875/153474716-92b75325-53bd-4124-8246-b412f31875a3.JPG)
 
 ***
@@ -144,6 +147,7 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 16:<a name="id16"></a>
+*En este ejercicio modelamos a partir de la clase persona sus relaciones familiares pertinente.
 ![ejercicio 16](https://user-images.githubusercontent.com/91721875/153474739-fc1c9386-5042-4dfe-93f5-3286f846e046.JPG)
 
 ***
@@ -166,6 +170,7 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 20:<a name="id20"></a>
+*En este ejercicio creo un diagrama de la información del texto.
 <img width="484" alt="ejercicio 20" src="https://user-images.githubusercontent.com/91721875/153474877-8e20c86f-e2d7-47f1-8121-c30eb38a285e.PNG">
 
 
@@ -191,36 +196,27 @@ ciudad. Una ciudad está compuesta de espacios abiertos, que pueden ser calles o
 ***
 
 ## Ejercicio 24:<a name="id24"></a>
+*A partir del diagrama que se nos ofrece, modificacmos este aplicando el patrón Estado.
 ![ejercicio 24](https://user-images.githubusercontent.com/91721875/153474900-56935bff-90b4-47c4-b336-46b34a39709f.JPG)
 
 ***
 
 ## Ejercicio 25:<a name="id25"></a>
-En este ejercico nos piden modelar un diagrama de clases a partir de la definiciones de unas palabras en el diccionario.
-![25](https://user-images.githubusercontent.com/91721507/153474431-2fff7218-7f32-434c-b983-b93feee2c261.PNG)
 
 ***
 
 ## Ejercicio 26:<a name="id26"></a>
-En este ejercico tenemos que analizar un texto y crear un modelo de clases que represente la información que describe.
-![26](https://user-images.githubusercontent.com/91721507/153474586-b43e0f05-565a-4e69-9580-976186cd1372.PNG)
 
 ***
 
 ## Ejercicio 27:<a name="id27"></a>
-Para este ejercicio nos daban un modelo de clases hecho y nos pedían refactorizarlo.
-![27](https://user-images.githubusercontent.com/91721507/153474753-17c2369c-2e4d-4a6a-a12a-9938f434b731.PNG)
 
 ***
 
 ## Ejercicio 28:<a name="id28"></a>
-Queriendo representar información acerca de los objetos encontrados durantes diversas excavaciones arqueológicas, nos piden definir el diagrama de clases correspondiente usando marcadores de subjetividad donde corresponda.
-![28](https://user-images.githubusercontent.com/91721507/153475010-ded405fe-249f-4643-a7ca-eb2617245811.PNG)
 
 ***
 
 ## Ejercicio 29:<a name="id29"></a>
-Refiriéndonos a un estudio biográfico, queremos representar información de diferentes tipos acerca de una persona, nos piden modelar el diagrama de clases usando marcadores de temporalidad donde corresponda.
-![29](https://user-images.githubusercontent.com/91721507/153475347-7b843491-b97e-46a2-997e-49eb685ebdcd.PNG)
 
 ***
