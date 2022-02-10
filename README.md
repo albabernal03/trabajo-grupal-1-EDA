@@ -35,8 +35,9 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ## Ejercicio 2:<a name="id2"></a>
 
 * En este ejercicio nos pide que realicemos un diagrama a partir del siguiente texto: "Kate Windsor (nacida Middleton) y Guillermo (Windsor) de Gales están casados. Guillermo de Gales es hijo de Carlos (Windsor) de Gales y de Diana de Gales (nacida Spencer)."
-
+![Practice 2](https://user-images.githubusercontent.com/91722847/153459697-c7f99f9c-4451-4f80-804b-19be5016bafd.png)
 ***
+
 
 ## Ejercicio 3:<a name="id3"></a>
 
@@ -55,6 +56,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ***
 
 ## Ejercicio 6:<a name="id6"></a>
+![Practice 6](https://user-images.githubusercontent.com/91722847/153459800-90c2ff8c-3b54-4326-9ee6-b45ddd141504.png)
 
 ***
 
@@ -76,6 +78,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ***
 
 ## Ejercicio 10:<a name="id10"></a>
+![Ejercico 10](https://user-images.githubusercontent.com/91722847/153459837-e0db4433-754a-47ef-b6b5-da4d33bca686.png)
 
 ***
 
@@ -124,6 +127,7 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 18:<a name="id18"></a>
+![Ejercicio 18](https://user-images.githubusercontent.com/91722847/153459855-87f6c0c2-c516-4305-91c5-119c9a7c75a2.png)
 
 ***
 
@@ -140,6 +144,7 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 22:<a name="id22"></a>
+![Ejercico 22](https://user-images.githubusercontent.com/91722847/153459888-df5d2924-7838-4048-94d2-5b8191f6f932.png)
 
 ***
 
