@@ -64,6 +64,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ***
 
 ## Ejercicio 4:<a name="id4"></a>
+![ejercicio 4](https://user-images.githubusercontent.com/91721875/153474638-97bbca8c-364b-4b73-9484-49f1c75798a8.JPG)
 
 ***
 
@@ -88,6 +89,7 @@ En este ejercico se nos pide definir las clases y los atributos correspondientes
 ***
 
 ## Ejercicio 8:<a name="id8"></a>
+![ejercicio 8](https://user-images.githubusercontent.com/91721875/153474693-5c8fb2e1-608f-4fe6-8ce7-13eb3771e294.JPG)
 
 ***
 
@@ -111,6 +113,7 @@ asociaciones, cardinalidades y roles.
 ***
 
 ## Ejercicio 12:<a name="id12"></a>
+![ejercicio 12](https://user-images.githubusercontent.com/91721875/153474716-92b75325-53bd-4124-8246-b412f31875a3.JPG)
 
 ***
 
@@ -141,6 +144,7 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 16:<a name="id16"></a>
+![ejercicio 16](https://user-images.githubusercontent.com/91721875/153474739-fc1c9386-5042-4dfe-93f5-3286f846e046.JPG)
 
 ***
 
@@ -162,6 +166,8 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 20:<a name="id20"></a>
+<img width="484" alt="ejercicio 20" src="https://user-images.githubusercontent.com/91721875/153474877-8e20c86f-e2d7-47f1-8121-c30eb38a285e.PNG">
+
 
 ***
 
@@ -185,6 +191,7 @@ ciudad. Una ciudad está compuesta de espacios abiertos, que pueden ser calles o
 ***
 
 ## Ejercicio 24:<a name="id24"></a>
+![ejercicio 24](https://user-images.githubusercontent.com/91721875/153474900-56935bff-90b4-47c4-b336-46b34a39709f.JPG)
 
 ***
 
