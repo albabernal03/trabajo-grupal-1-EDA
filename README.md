@@ -24,6 +24,12 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 11. [Ejercicio 11](#id11)
 12. 12
 13. [Ejercicio 13](#id13)
+14. s
+15. s
+16. s
+17. s
+18. s
+19. [Ejercicio 19](#id19)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
