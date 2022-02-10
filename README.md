@@ -212,21 +212,30 @@ ciudad. Una ciudad está compuesta de espacios abiertos, que pueden ser calles o
 
 ## Ejercicio 25:<a name="id25"></a>
 * En este ejercicio nos piden que construyamos clases de los conceptos libro y muestra.
+* ![e80cfa12-f4a6-427c-96d9-f693b254436c](https://user-images.githubusercontent.com/91721863/153496375-797da980-a78a-49a4-9774-ed4fb037a2b1.JPG)
+
 
 ***
 
 ## Ejercicio 26:<a name="id26"></a>
 * En este ejercicio nos piden q creemos un modelo de clases a partir de un texto.
+![32498bf3-cfed-4222-935c-e9b0cca718e7](https://user-images.githubusercontent.com/91721863/153496406-360cda0c-d98e-4383-b3ca-7433174ff976.JPG)
 ***
 
 ## Ejercicio 27:<a name="id27"></a>
 * En este ejercicio nos piden que refactoricemos el modelo que nos dan.
+![82ebcd0d-69e6-40b6-98e4-c808c40f8ff7](https://user-images.githubusercontent.com/91721863/153496512-036ad147-be3c-4106-99cc-a90cde410c6a.JPG)
+
 ***
 
 ## Ejercicio 28:<a name="id28"></a>
 * En este ejercicio nos piden representar información acerca de los objetos encontrados durante diversas excavaciones arqueológicas.
+![c2abe0de-d1a7-4d72-a2ec-42a006afaca5](https://user-images.githubusercontent.com/91721863/153496524-4834c2af-14b3-4e53-a857-910221f5369a.JPG)
+
 ***
 
 ## Ejercicio 29:<a name="id29"></a>
 * En este ejercicio nos piden modela el diagrama de clases usando marcadores de temporalidad de un estudio biográfico.
+![44a99cb6-4bed-4eea-8eb1-35bff0cf9d6f](https://user-images.githubusercontent.com/91721863/153496529-385a1f72-aa8b-4c28-80c6-81b571edd944.JPG)
+
 ***
