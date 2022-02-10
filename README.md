@@ -139,6 +139,10 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 
 ## Ejercicio 19:<a name="id19"></a>
 
+* En este ejercicio se nos pide corregir y completar el diagrama de clases que nos dan. Además, se pide mejorar el modelo para tener en cuenta que los objetos arqueológicos pueden ser sujetos a restauración.
+![Ejercicio 19](https://user-images.githubusercontent.com/91721875/153464744-d6236752-fa3b-466f-bf8f-cd3c16654745.jpg)
+
+
 ***
 
 ## Ejercicio 20:<a name="id20"></a>
