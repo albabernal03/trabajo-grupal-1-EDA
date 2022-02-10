@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T16:01:38.665Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="YkccN0GydAhCMYR1MGaN" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T16:10:12.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="90HvqcoRPk0sOghuWrUM" version="15.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,12 @@
         </mxCell>
         <mxCell id="Ueff_B9wNy8md64CMd-u-27" value="- Y: (1) -10" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="Ueff_B9wNy8md64CMd-u-25">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Ueff_B9wNy8md64CMd-u-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="120" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ueff_B9wNy8md64CMd-u-41" value="En esta tarea veo más conveniente hacer la visibilidad privada, debido a que de este modo la clase no es accesible fuera de la unidad en la que se declara, lo que significa que no es modificable." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="125" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
