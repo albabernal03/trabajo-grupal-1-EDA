@@ -29,12 +29,12 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 16. s
 17. s
 18. s
-19. s
-20. [Ejercicio 19](#id19)
-21. a
+19. [Ejercicio 19](#id19)
+20. [Ejercicio 20](#id20)
 22. a
 23. a
-24. [Ejercicio 23](id#23)
+24. a
+25. [Ejercicio 23](id#23)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
