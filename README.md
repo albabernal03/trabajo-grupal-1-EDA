@@ -31,10 +31,9 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 18. [Ejercicio 18](#id18)
 19. [Ejercicio 19](#id19)
 20. [Ejercicio 20](#id20)
-22. a
-23. a
-24. a
-25. [Ejercicio 23](id#23)
+21. [Ejercicio 21](#id21)
+22. [Ejercicio 22](#id22)
+23. [Ejercicio 23](#id23)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
