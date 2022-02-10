@@ -20,20 +20,18 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 7. [Ejercicio 7](#id7)
 8. [Ejercicio 8](#id8)
 9. [Ejercicio 9](#id9)
-10.[Ejercicio 10](#id10)
-11.[Ejercicio 11](#id11)
-12.[Ejercicio 12](#id12)
-13.[Ejercicio 13](#id13)
-14. s
+10. [Ejercicio 10](#id10) 
+11.
 15. s
 16. s
 17. s
 18. s
-19. [Ejercicio 19](#id19)
-20. a
+19. s
+20. [Ejercicio 19](#id19)
 21. a
 22. a
-23. [Ejercicio 23](id#23)
+23. a
+24. [Ejercicio 23](id#23)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
