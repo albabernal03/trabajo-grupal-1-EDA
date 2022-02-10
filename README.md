@@ -22,7 +22,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 9. [Ejercicio 9](#id9)
 10. [Ejercicio 10](#id10) 
 11. [Ejercicio 11](#id11)
-15. s
+12. [Ejercicio 12](#id12)
 16. s
 17. s
 18. s
