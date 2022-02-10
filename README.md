@@ -7,7 +7,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/trabajo-grupal
 ***
 <h2>¿De qué trata esta tarea?</h2>
 
-En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejercicios se muestran en una secuencia lógica, de lo más sencillo a lo más complejo, y en algunas ocasiones los ejercicios posteriores se basan en los anteriores. Los ejercicios se presentan agrupados por temáticas.
+En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los ejercicios se muestran en una secuencia lógica, de lo más sencillo a lo más complejo, y en algunas ocasiones los ejercicios posteriores se basan en los anteriores. Los ejercicios se presentan agrupados por temáticas.
 
 ***
 ## Índice
@@ -18,6 +18,10 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 5. f
 6. f
 7. [Ejercicio 7](#id7)
+8. f
+9. f
+10. f
+11. [Ejercicio 11](#id11)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
@@ -73,6 +77,12 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas UML. Los ejer
 ***
 
 ## Ejercicio 11:<a name="id11"></a>
+
+* En este ejercicio se nos pide que a partir del diagrama de objetos obtenido en el Ejercicio 3, propongamos un diagrama de clases correspondiente con
+asociaciones, cardinalidades y roles.
+
+![ejercicio 11](https://user-images.githubusercontent.com/91721875/153274248-1f6c3588-16f4-4aa2-9584-3b619d94613b.jpg)
+
 
 ***
 
