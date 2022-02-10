@@ -196,21 +196,31 @@ ciudad. Una ciudad está compuesta de espacios abiertos, que pueden ser calles o
 ***
 
 ## Ejercicio 25:<a name="id25"></a>
+En este ejercico nos piden modelar un diagrama de clases a partir de la definiciones de unas palabras en el diccionario.
+![25](https://user-images.githubusercontent.com/91721507/153474431-2fff7218-7f32-434c-b983-b93feee2c261.PNG)
 
 ***
 
 ## Ejercicio 26:<a name="id26"></a>
+En este ejercico tenemos que analizar un texto y crear un modelo de clases que represente la información que describe.
+![26](https://user-images.githubusercontent.com/91721507/153474586-b43e0f05-565a-4e69-9580-976186cd1372.PNG)
 
 ***
 
 ## Ejercicio 27:<a name="id27"></a>
+Para este ejercicio nos daban un modelo de clases hecho y nos pedían refactorizarlo.
+![27](https://user-images.githubusercontent.com/91721507/153474753-17c2369c-2e4d-4a6a-a12a-9938f434b731.PNG)
 
 ***
 
 ## Ejercicio 28:<a name="id28"></a>
+Queriendo representar información acerca de los objetos encontrados durantes diversas excavaciones arqueológicas, nos piden definir el diagrama de clases correspondiente usando marcadores de subjetividad donde corresponda.
+![28](https://user-images.githubusercontent.com/91721507/153475010-ded405fe-249f-4643-a7ca-eb2617245811.PNG)
 
 ***
 
 ## Ejercicio 29:<a name="id29"></a>
+Refiriéndonos a un estudio biográfico, queremos representar información de diferentes tipos acerca de una persona, nos piden modelar el diagrama de clases usando marcadores de temporalidad donde corresponda.
+![29](https://user-images.githubusercontent.com/91721507/153475347-7b843491-b97e-46a2-997e-49eb685ebdcd.PNG)
 
 ***
