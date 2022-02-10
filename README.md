@@ -158,6 +158,8 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 17:<a name="id17"></a>
+*En este ejercicio modelamos el funcionamiento de una biblioteca municipal.
+![ejercicio 17](https://user-images.githubusercontent.com/91721863/153489455-add936bb-3aa5-47eb-b08d-ae09520b83ad.jpg)
 
 ***
 
@@ -182,6 +184,8 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 21:<a name="id21"></a>
+*En este ejercicio creamos un diagrama de clases para representar tres entidades gráficas, el punto, la línea y el área.
+![ejercico 21](https://user-images.githubusercontent.com/91721863/153489740-e1f82f42-93ed-4885-bb32-be7da4e8938c.jpg)
 
 ***
 
