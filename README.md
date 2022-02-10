@@ -59,7 +59,8 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ## Ejercicio 7:<a name="id7"></a>
 
 * En este ejercicio se nos pide que creemos un diagrama UML en el que se muestre las características que conlleva un proyecto.
-![ejercicio 7](https://user-images.githubusercontent.com/91721875/153268653-eb79cf81-2867-4c5b-978b-e7cadfa3545d.jpg)
+
+![ejercicio 7](https://user-images.githubusercontent.com/91721875/153371799-61d0ea03-e750-4410-9c3c-83f78bbda847.jpg)
 
 
 ***
