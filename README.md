@@ -45,6 +45,8 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ## Ejercicio 1:<a name="id1"></a>
 
 * En el primer ejercicio, nos piden que asignemos los valores correspondientes a las siguientes figuras: círculo, cuadrado, rectángulo y elipse.
+![ejercicio 1](https://user-images.githubusercontent.com/91721863/153488453-b71ec722-ad77-43c7-ac6b-06e434984ff4.jpg)
+
 
 ***
 
