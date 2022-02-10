@@ -30,6 +30,10 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 17. s
 18. s
 19. [Ejercicio 19](#id19)
+20. a
+21. a
+22. a
+23. [Ejercicio 23](id#23)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
@@ -167,6 +171,10 @@ ciudad. Una ciudad está compuesta de espacios abiertos, que pueden ser calles o
 ***
 
 ## Ejercicio 23:<a name="id23"></a>
+
+* En este ejercicio nos piden definir un diagrama de clases utilizando el patrón Composite para relacionar los conceptos de edificio y conjunto construido.
+<img width="613" alt="Ejercicio 23" src="https://user-images.githubusercontent.com/91721875/153467346-afa9924e-b42e-4713-b8fb-4435f09e3fed.png">
+
 
 ***
 
