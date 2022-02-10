@@ -22,6 +22,8 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 9. f
 10. f
 11. [Ejercicio 11](#id11)
+12. 12
+13. [Ejercicio 13](#id13)
 ***
 
 ## Ejercicio 1:<a name="id1"></a>
