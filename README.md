@@ -72,11 +72,13 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ***
 
 ## Ejercicio 5:<a name="id5"></a>
+*En esta tarea nos piden definir las clases y atributos del ejercicio 1
+![ejercicio 5](https://user-images.githubusercontent.com/91721863/153488804-b8f55638-bce8-4df5-861e-5a4c3395cb99.jpg)
 
 ***
 
 ## Ejercicio 6:<a name="id6"></a>
-En este ejercico se nos pide definir las clases y los atributos correspondientes.
+*En este ejercico se nos pide definir las clases y los atributos correspondientes.
 
 ![Practice 6](https://user-images.githubusercontent.com/91722847/153459800-90c2ff8c-3b54-4326-9ee6-b45ddd141504.png)
 
@@ -98,7 +100,8 @@ En este ejercico se nos pide definir las clases y los atributos correspondientes
 ***
 
 ## Ejercicio 9:<a name="id9"></a>
-
+*Aquí definimos la clase del objeto representado en la foto, en este caso, “La Gioconda”
+![ejercicio 9](https://user-images.githubusercontent.com/91721863/153489189-d8f30365-508e-422c-9c52-91e05fe8904e.jpg)
 ***
 
 ## Ejercicio 10:<a name="id10"></a>
