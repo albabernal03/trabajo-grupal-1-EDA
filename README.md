@@ -20,7 +20,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 7. [Ejercicio 7](#id7)
 8. [Ejercicio 8](#id8)
 9. [Ejercicio 9](#id9)
-10. f
+10.[Ejercicio 10](#id11)
 11. [Ejercicio 11](#id11)
 12. 12
 13. [Ejercicio 13](#id13)
