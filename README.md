@@ -56,6 +56,8 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ***
 
 ## Ejercicio 6:<a name="id6"></a>
+En este ejercico se nos pide definir las clases y los atributos correspondientes.
+
 ![Practice 6](https://user-images.githubusercontent.com/91722847/153459800-90c2ff8c-3b54-4326-9ee6-b45ddd141504.png)
 
 ***
@@ -78,6 +80,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 ***
 
 ## Ejercicio 10:<a name="id10"></a>
+En este ejercicio se nos pide definir las asociaciones necesarias para conectarlas a partir de las clases definidas en el Ejercicio 7.
 ![Ejercico 10](https://user-images.githubusercontent.com/91722847/153459837-e0db4433-754a-47ef-b6b5-da4d33bca686.png)
 
 ***
@@ -105,6 +108,9 @@ asociaciones, cardinalidades y roles.
 ***
 
 ## Ejercicio 14:<a name="id14"></a>
+* En este ejercicio se nos pide definir un diagrama de objetos coherente con el diagrama de clases construido en el Ejercicio 13 para
+representar dos triángulos que tengan un lado común.
+![Ejercicio 14](https://user-images.githubusercontent.com/91722847/153463036-0b5d65c6-d517-490a-bf18-2a686201a495.png)
 
 ***
 
@@ -144,6 +150,8 @@ varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 co
 ***
 
 ## Ejercicio 22:<a name="id22"></a>
+Queremos definir un modelo para representar la riqueza arquitectónica de las fachadas de los edificios de una
+ciudad. Una ciudad está compuesta de espacios abiertos, que pueden ser calles o plazas. Se registran los edificios de cada espacio y los elementos arquitectónicos relevantes de las fachadas de los edificios: portada, puerta, ventana, balcón, etc. Usa relaciones de especialización/generalización y relaciones todo/parte para definir un diagrama de clases apropiado. Añade los atributos que consideres pertinentes.
 ![Ejercico 22](https://user-images.githubusercontent.com/91722847/153459888-df5d2924-7838-4048-94d2-5b8191f6f932.png)
 
 ***
