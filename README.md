@@ -80,8 +80,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 
 * En este ejercicio se nos pide que a partir del diagrama de objetos obtenido en el Ejercicio 3, propongamos un diagrama de clases correspondiente con
 asociaciones, cardinalidades y roles.
-
-![ejercicio 11](https://user-images.githubusercontent.com/91721875/153274248-1f6c3588-16f4-4aa2-9584-3b619d94613b.jpg)
+![ejercicio 11](https://user-images.githubusercontent.com/91721875/153366670-12c7d408-d701-4eb0-b86a-050456a56aae.jpg)
 
 
 ***
