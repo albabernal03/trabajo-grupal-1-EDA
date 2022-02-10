@@ -211,21 +211,22 @@ ciudad. Una ciudad está compuesta de espacios abiertos, que pueden ser calles o
 ***
 
 ## Ejercicio 25:<a name="id25"></a>
+* En este ejercicio nos piden que construyamos clases de los conceptos libro y muestra.
 
 ***
 
 ## Ejercicio 26:<a name="id26"></a>
-
+* En este ejercicio nos piden q creemos un modelo de clases a partir de un texto.
 ***
 
 ## Ejercicio 27:<a name="id27"></a>
-
+* En este ejercicio nos piden que refactoricemos el modelo que nos dan.
 ***
 
 ## Ejercicio 28:<a name="id28"></a>
-
+* En este ejercicio nos piden representar información acerca de los objetos encontrados durante diversas excavaciones arqueológicas.
 ***
 
 ## Ejercicio 29:<a name="id29"></a>
-
+* En este ejercicio nos piden modela el diagrama de clases usando marcadores de temporalidad de un estudio biográfico.
 ***
