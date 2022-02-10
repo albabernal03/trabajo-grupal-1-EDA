@@ -14,11 +14,11 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 1. [Ejercicio 1](#id1)
 2. [Ejercicio 2](#id2)
 3. [Ejercicio 3](#id3)
-4. f
-5. f
+4. [Ejercicio 4](#id4)
+5. [Ejercicio 5](#id5)
 6. [Ejercicio 6](#id6)
 7. [Ejercicio 7](#id7)
-8. f
+8. [Ejercicio 8](#id8)
 9. f
 10. f
 11. [Ejercicio 11](#id11)
