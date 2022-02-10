@@ -16,7 +16,7 @@ En esta tarea hemos resuelto una serie de ejercicios con diagramas **UML**. Los 
 3. [Ejercicio 3](#id3)
 4. f
 5. f
-6. f
+6. [Ejercicio 6](#id6)
 7. [Ejercicio 7](#id7)
 8. f
 9. f
