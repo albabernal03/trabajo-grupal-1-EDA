@@ -92,6 +92,11 @@ asociaciones, cardinalidades y roles.
 
 ## Ejercicio 13:<a name="id13"></a>
 
+* En esta tarea nos piden que a partir de un diagrama de objetos dado, definamos un diagrama de clases que un punto sólo pueda pertenecer a un único polígono.
+
+![ejercicio 13](https://user-images.githubusercontent.com/91721875/153441304-e1f89855-9a5a-47d5-8f95-b01380f420eb.jpg)
+
+
 ***
 
 ## Ejercicio 14:<a name="id14"></a>
