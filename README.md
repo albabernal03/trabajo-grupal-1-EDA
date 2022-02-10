@@ -107,6 +107,11 @@ asociaciones, cardinalidades y roles.
 
 ## Ejercicio 15:<a name="id15"></a>
 
+* En este ejercicio se nos pide modificar el diagrama de clases del Ejercicio 13 para acomodar las situaciones en las que un punto pertenezca a
+varios polígonos a la vez, y ajustar el diagrama de objetos del Ejercicio 14 consecuentemente.
+
+
+
 ***
 
 ## Ejercicio 16:<a name="id16"></a>
